@@ -6,7 +6,7 @@ export function MeteorsBackground() {
   return (
     <div className="relative h-screen w-full">
       <div className="absolute top-0 bottom-0 left-0 right-0">
-        <Meteors 
+        <Meteors
           number={50}
           className="text-slate-500/10"
           minDuration={5}
